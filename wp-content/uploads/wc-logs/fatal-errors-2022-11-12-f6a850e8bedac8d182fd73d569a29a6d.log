@@ -124,3 +124,683 @@ Stack trace:
 #4 {main}
   thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
 
+2022-11-12T04:13:10+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:13:19+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:14:38+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:15:05+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:17:37+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:17:42+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:18:43+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:18:46+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:21:29+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:21:36+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:22:12+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:22:19+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:56:20+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:56:24+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:59:17+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T04:59:21+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:05:03+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:05:13+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:06:09+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:06:16+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:07:30+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:07:34+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:14:47+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:14:52+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:15:58+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:16:09+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:20:25+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:20:30+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:21:07+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:21:14+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:21:49+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:21:53+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:23:16+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:23:25+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:24:20+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:24:27+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:48:00+00:00 CRITICAL Uncaught Error: Class 'WC_Payments_Admin_Settings' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-payments\includes\class-wc-payment-gateway-wcpay.php:2970
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\PaymentGatewaysController.php(40): WC_Payment_Gateway_WCPay::get_settings_url()
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): Automattic\WooCommerce\Admin\Features\PaymentGatewaySuggestions\PaymentGatewaysController::extend_response(Object(WP_REST_Response), Object(WCPay\Payment_Methods\CC_Payment_Gateway), Object(WP_REST_Request))
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(191): WP_Hook->apply_filters(Object(WP_REST_Response), Array)
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-payment-gateways-controller.php(63): apply_filters('woocommerce_res...', Object(WP_REST_Response), Object(WCPay\Payment_Methods\CC_Payment_Gateway), Object(W en C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-payments\includes\class-wc-payment-gateway-wcpay.php en la línea 2970
+
+2022-11-12T05:49:55+00:00 CRITICAL Uncaught Error: Class 'WC_Payments_Admin_Settings' not found in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-payments\includes\class-wc-payment-gateway-wcpay.php:2970
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\PaymentGatewaysController.php(40): WC_Payment_Gateway_WCPay::get_settings_url()
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): Automattic\WooCommerce\Admin\Features\PaymentGatewaySuggestions\PaymentGatewaysController::extend_response(Object(WP_REST_Response), Object(WCPay\Payment_Methods\CC_Payment_Gateway), Object(WP_REST_Request))
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(191): WP_Hook->apply_filters(Object(WP_REST_Response), Array)
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-payment-gateways-controller.php(63): apply_filters('woocommerce_res...', Object(WP_REST_Response), Object(WCPay\Payment_Methods\CC_Payment_Gateway), Object(W en C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-payments\includes\class-wc-payment-gateway-wcpay.php en la línea 2970
+
+2022-11-12T05:53:03+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T05:53:08+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:10:16+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:10:21+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:14:58+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:15:02+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:20:34+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:20:39+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:21:25+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:21:28+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:28:36+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:28:39+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:29:59+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:30:03+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:30:57+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:31:00+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:31:27+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:31:31+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:32:17+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:32:21+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:39:04+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:39:09+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:40:38+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:40:47+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:56:45+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T06:56:50+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:11:45+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:11:49+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:12:49+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:12:55+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:13:38+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:13:43+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:14:12+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:14:27+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:14:44+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:14:49+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:15:09+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
+2022-11-12T07:15:18+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php:568
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
+
