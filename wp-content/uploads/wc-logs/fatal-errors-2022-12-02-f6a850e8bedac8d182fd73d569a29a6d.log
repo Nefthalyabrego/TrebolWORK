@@ -520,3 +520,5 @@ Stack trace:
 #4 {main}
   thrown en C:\wamp64\www\wordpress\wp-content\themes\rara-ecommerce\inc\custom-functions.php en la línea 568
 
+2022-12-02T01:44:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\wamp64\www\wordpress\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\class-wcs-core-autoloader.php en la línea 69
+
